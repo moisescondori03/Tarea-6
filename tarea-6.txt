@@ -1,0 +1,8 @@
+En la tarea anterior, dentro del nav la lista quedó con una opción debajo de la otra.
+En esta tarea con la ayuda de flexbox se podrán poner uno al lado del otro gracias a la
+propiedad flex-direction.
+Además, si tu página tiene un logo, podrás acomodarlo muy fácilmente, eso depende de dónde lo
+quieras ubicar
+Con respecto al footer, también se podrá acomodar muy similar al header.
+Además de los derechos de autor, se pueden incluir distintas cosas como por ejemplo, redes sociales,
+números de contacto o las mismas opciones del nav para recorrer la página.
